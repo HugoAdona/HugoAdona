@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugoadona&label=Profile%20views&color=0e75b6&style=flat" alt="hugoadona" /> </p>
 
-- 🔭 I’m currently working on **Pricing Plans Section Design**
-
-- 🌱 I’m currently learning **React & Bootstrap**
-
 - 👯 I’m looking to collaborate on **projects related to frontend**
 
 - 👨‍💻 All of my projects are available at [https://hugoadona.github.io/](https://hugoadona.github.io/)

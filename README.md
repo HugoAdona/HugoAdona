@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugoadona&label=Profile%20views&color=0e75b6&style=flat" alt="hugoadona" /> </p>
 
-- 🔭 I’m currently working on **a design for a pricing plan section.**
-
 - 🌱 I’m currently learning **HTML, CSS & Javascript.**
 
 - 👯 I’m looking to collaborate on **projects related to frontend.**

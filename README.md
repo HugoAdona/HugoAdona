@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hugo</h1>
-<h3 align="center">An enthusiastic student & frontend beginner developer from the Philippines.</h3>
+<h3 align="center">An enthusiastic frontend beginner developer from the Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugoadona&label=Profile%20views&color=0e75b6&style=flat" alt="hugoadona" /> </p>
 

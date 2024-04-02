@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugoadona&label=Profile%20views&color=0e75b6&style=flat" alt="hugoadona" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hugoadona" alt="hugoadona" /></a> </p>
-
 - 🌱 I’m currently learning **HTML, CSS & Javascript.**
 
 - 👨‍💻 All of my projects are available atat [https://hugoadona.github.io/](https://hugoadona.github.io/)

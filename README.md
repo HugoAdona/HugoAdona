@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/hugoadona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hugoadona" height="30" width="40" /></a>
 <a href="https://fb.com/hugoadonafacebook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hugoadonafacebook" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/@HugoAdona](https://www.youtube.com/@Hugo-Adona)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucup3gaakuvhitagn9fe9ytg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@HugoAdona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@Hugo-Adona" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS & Javascript.**
 
-- 👨‍💻 All of my projects are available atat [https://hugoadona.github.io/](https://hugoadona.github.io/)
-
-- 📫 You can reach me at **adonahugo@gmail.com**
+- 👨‍💻 All of my projects are available at [https://hugoadona.github.io/](https://hugoadona.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hugo</h1>
-<h3 align="center">An enthusiastic student from Philippines!</h3>
+<h3 align="center">An enthusiastic frontend developer from Philippines!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugoadona&label=Profile%20views&color=0e75b6&style=flat" alt="hugoadona" /> </p>
 
@@ -9,10 +9,12 @@
 
 - 👨‍💻 All of my projects are available at [hugoadona.github.io](hugoadona.github.io)
 
+- 📝 I regularly write articles on [https://hugoadonablog.github.io/](https://hugoadonablog.github.io/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hugoadona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hugoadona" height="30" width="40" /></a>
-<a href="https://fb.com/hugoadonadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hugoadonafb" height="30" width="40" /></a>
+<a href="https://fb.com/hugoadonadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hugoadonadev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [hugoadona.github.io](hugoadona.github.io)
 
-- 📝 I regularly write articles on [https://hugoadonablog.github.io/](https://hugoadonablog.github.io/)
+- 📝 I write articles on [https://hugoadonablog.github.io/](https://hugoadonablog.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

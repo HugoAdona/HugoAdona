@@ -1,25 +1,58 @@
-<h1 align="center">Hi 👋, I'm Hugo</h1>
-<h3 align="center">An enthusiastic frontend developer from Philippines!</h3>
+<div align="center">
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVxYzg3am90ZWx3Y3lxdjhsMDVudDlqMzFiaWQxd2tlemphOGV5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hugoadona&label=Profile%20views&color=0e75b6&style=flat" alt="hugoadona" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hugoadona" alt="hugoadona" /></a> </p>
+<div align="center">
+  <a href="https://x.com/hugoadona" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://www.facebook.com/hugoadonadev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+</div>
 
-- 🌱 I’m currently learning **HTML, CSS, and JavaScript.**
+###
 
-- 👨‍💻 All of my projects are available at [hugoadona.github.io](hugoadona.github.io)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HugoAdona.HugoAdona&left_text=Visitors"  />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hugoadona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hugoadona" height="30" width="40" /></a>
-<a href="https://fb.com/hugoadonadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hugoadonadev" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi there! 👋</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hugoadona&show_icons=true&locale=en&layout=compact" alt="hugoadona" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hugoadona&show_icons=true&locale=en" alt="hugoadona" /></p>
+<h3 align="left">👩‍💻  About Me</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hugoadona&" alt="hugoadona" /></p>
+###
+
+<p align="left">I'm Hugo from the Philippines!<br><br>- 📚 I'm currently learning JavaScript,  npm, and Node.js!<br>- ⚡ In my free time I code personal/hobby projects.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=HugoAdona&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###

@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [hugoadona.github.io](hugoadona.github.io)
 
-- 📝 I write articles on [https://hugoadonablog.github.io/](https://hugoadonablog.github.io/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hugoadona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hugoadona" height="30" width="40" /></a>

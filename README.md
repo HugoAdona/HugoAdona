@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Hugo from the Philippines!<br><br>- 📚 I'm currently learning JavaScript,  npm, and Node.js!<br>- ⚡ In my free time I code personal/hobby projects.<br>- 🔭 I’m a passionate student and developer.</p>
+<p align="left">I'm Hugo from the Philippines!<br><br>- 🔭 I’m a passionate student and developer.<br>- 📚 I'm currently learning JavaScript,  npm, and Node.js!<br>- ⚡ In my free time I code personal/hobby projects.</p>
 
 ###
 

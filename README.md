@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning the Foundations Course from The Odin Project.<br>🎯 Goal: To be a full-stack developer.<br>🎲 Fun fact: I like pizza.</p>
+<p align="left">📚 I'm currently learning the basics of Full Stack Development.<br>🎯 Goal: To be a full-stack developer.<br>🎲 Fun fact: I like pizza.</p>
 
 ###
 

@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning the fundamentals of Full Stack Development.<br>🎯 Goals: To be a Full-stack Web Developer.</p>
+<p align="left">📚 I'm currently learning the fundamentals of Full Stack Development.<br>🎯 Goals: To be a Full Stack Developer.</p>
 
 ###
 
